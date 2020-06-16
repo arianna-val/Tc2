@@ -6,8 +6,9 @@
 }
 #animlottie{
     display: inline-block;
-    width: auto!important;
-    height: 80vh!important;
+    width: auto !important;
+    height: 80vh !important;
+    min-height: 
 }
 
 .second {

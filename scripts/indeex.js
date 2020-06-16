@@ -103,7 +103,7 @@ anime({
   targets:  '.amodel2', 
   opacity: [{ value: 1, duration: 800, delay:500, easing: 'easeOutExpo' }
   ],
-    height:[{ value:'60%', duration: 3000, delay:500, easing: 'easeOutExpo' }]
+    height:[{ value:'60%', duration: 800, delay:500, easing: 'easeOutExpo' }]
 
 });
 

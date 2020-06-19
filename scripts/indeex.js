@@ -1,3 +1,9 @@
+const animation = document.querySelector("lottie-player");
+
+setTimeout(function(){ animation.play(); }, 1000);
+
+
+
 /*square
 var animation = anime({
   targets: '.square',
